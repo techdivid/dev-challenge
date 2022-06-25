@@ -6,7 +6,7 @@ Construa uma aplicação full stack que utiliza uma API pública de clima para m
 
 - Campo de input da cidade a ser pesquisada
 - Listar as previsões para os próximos 3 dias
-- Pra cada pesquisa, a aplicação deve verificar no banco se já existem registros para a cidade pesquisada, e persistir os dados caso contrário.
+- Pra cada pesquisa, a aplicação deve verificar no banco se já existem registros para a cidade e data pesquisada, e persistir os dados caso contrário.
 - O front-end deve ser feito em React (com ou sem typescript)
 - O backend deve ser feito em node
 - O banco de dados deve ser feito em mongoDB
